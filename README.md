@@ -1,2 +1,3 @@
 # Hello-World
-First Repository
+
+Time to get serious and learn to code some shiet.
